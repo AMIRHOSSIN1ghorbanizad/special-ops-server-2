@@ -1,0 +1,13 @@
+{
+  "name": "special-ops-3d-room-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Two-player room-code WebSocket server for Special Ops 3D",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
